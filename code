@@ -41,6 +41,8 @@ while user_input != "4":
         save_database(data)  # Save changes to the file
         print("Item added:", item)
 
+
+
     elif user_input == "2":
         item = input("What items have you completed? ")
         if item in data:
