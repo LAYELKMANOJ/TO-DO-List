@@ -2,7 +2,16 @@
 
 ## Overview
 Welcome to the **To-Do List Program** — your personal assistant for staying organized and on top of your tasks! Whether you're planning your day, managing a project, or simply jotting down ideas, this app has you covered. Designed to be simple yet powerful, it ensures nothing slips through the cracks.
-## More on the program
+
+
+## Customization
+
+This program is designed to be flexible and extensible. Developers can:
+Add integrations with cloud storage services.
+Enhance the UI for a more modern experience.
+Implement priority-based task sorting.
+Enable multi-user support for shared task management.
+
 ## Features
 Here’s why you’ll love using the To-Do List Program:
 - 🎯 **Add Tasks**: Quickly jot down tasks with a title and optional description.
