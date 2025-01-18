@@ -12,6 +12,7 @@ def load_database():
 
 
 
+
 def save_database(data):
     with open(database, "w") as file:
         json.dump(data, file, indent=4)
