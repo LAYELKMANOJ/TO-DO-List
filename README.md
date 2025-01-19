@@ -55,7 +55,7 @@ Welcome to **To-Do List**, a simple and effective program to help you manage you
 
 ## 👤 Creator
 
-**Layel K Manoj**
+**Layel K Manoj**<a href="https://www.linkedin.com/in/layelkmanoj/">
 
 ---
 
