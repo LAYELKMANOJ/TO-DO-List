@@ -34,7 +34,7 @@ Welcome to **To-Do List**, a simple and effective program to help you manage you
 
 1. Run the program:
    ```bash
-   python chatgpt.py
+   python database.py
    ```
 2. Follow the menu prompts to:
    - Add tasks.
