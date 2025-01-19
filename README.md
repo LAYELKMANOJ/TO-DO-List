@@ -21,7 +21,7 @@ Getting started is easy! Follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/todo-list.git
+   git clone https://github.com/<LAYELKMANOJ>/todo-list.git
    ```
 
 2. **Navigate to the project directory**:
@@ -37,7 +37,7 @@ Getting started is easy! Follow these steps:
 
 4. **Run the program**:
    ```bash
-   python main.py
+   python CODE.py
    ```
 
 ## Usage
