@@ -21,7 +21,7 @@ Welcome to **To-Do List**, a simple and effective program to help you manage you
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/To-Do-List.git
+   git clone https://github.com/LAYELKMANOJ/To-Do-List.git
    ```
 2. Navigate to the project directory:
    ```bash
