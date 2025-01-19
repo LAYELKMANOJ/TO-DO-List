@@ -63,5 +63,7 @@ Welcome to **To-Do List**, a simple and effective program to help you manage you
 
 If you find this program useful, please give it a ⭐ on GitHub!
 
+                           ***THANK YOU***
+
 ---
 
