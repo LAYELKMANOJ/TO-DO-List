@@ -2,7 +2,6 @@ import json
 database = "database.json"
 
 
-
 def load_database():
     try:
         with open(database, "r") as file:
