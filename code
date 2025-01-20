@@ -59,4 +59,4 @@ while user_input != "4":
     elif user_input == "4":
         print("Goodbye! You did a great job.")
     else:
-        print("Please ensure you entered a valid menu option.")
+        print("Please Ensure you entered a valid Menu option.")
