@@ -26,6 +26,7 @@ Welcome to **To-Do List**, a simple and effective program to help you manage you
 2. Navigate to the project directory:
    ```bash
    cd To-Do-List
+   cd database
    ```
 
 ---
