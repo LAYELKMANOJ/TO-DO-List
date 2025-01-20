@@ -21,7 +21,7 @@ data = load_database()
 
 
 def show_menu():
-    print('menu')
+    print('MENU....')
     print("1. Add items to the list")
     print("2. Mark completed items")
     print("3. View items in the to-do list")
