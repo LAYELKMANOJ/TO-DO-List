@@ -21,7 +21,7 @@ data = load_database()
 
 
 def show_menu():
-    print("##############################################################################")
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px">
     print('MENU....')
     print("1. Add items to the list")
     print("2. Mark completed items")
