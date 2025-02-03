@@ -16,7 +16,6 @@ Welcome to **To-Do List**, a simple and effective program to help you manage you
 ## 🚀 Getting Started
 
 
-
 ### Prerequisites
 - Python 3.x installed on your system.
 
