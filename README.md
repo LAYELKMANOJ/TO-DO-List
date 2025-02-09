@@ -31,7 +31,6 @@ Welcome to **To-Do List**, a simple and effective program to help you manage you
    cd To-Do-List
    cd database
    ```
-
 ---
 
 ## ⚙️ Usage
