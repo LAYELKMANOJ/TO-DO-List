@@ -1,5 +1,3 @@
-                     
-   
 # To-Do List
 
 Welcome to **To-Do List**, a simple and effective program to help you manage your tasks and keep track of your daily goals. Whether you’re planning your day or crossing items off your list, this tool has you covered!
