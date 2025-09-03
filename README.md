@@ -8,7 +8,7 @@ Welcome to **To-Do List**, a simple and effective program to help you manage you
 
 - **Add Tasks:** Quickly add items to your to-do list.
 - **Mark Completed:** Easily mark tasks as done and remove them from the list.       
-- **View Tasks:** See all pending tasks in one place.    
+- **View Tasks:** See all pending tasks in one place.        
 - **Save Progress:** Automatically saves your tasks to a file for future reference.
 
 ---    
