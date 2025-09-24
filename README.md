@@ -46,7 +46,7 @@ Welcome to **To-Do List**, a simple and effective program to help you manage you
 3. Your tasks are saved in `database.json` for future sessions.
 
 ---
-
+  
 ## 🔧 Built With
 
 - **Python**: A simple script using Python for task management.
